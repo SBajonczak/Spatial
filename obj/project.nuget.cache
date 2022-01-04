@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "g+PwnEsKrEXke1UWIJWBySEY2f7+Ml9jPoDcZU/cY8ospyXUMk8tVYbFX72D2U81xI+C18T8R8QR7/dTqI99tA==",
+  "dgSpecHash": "VfrrH5O7FVlkQ5KME1nLvmf4rVtPgab63E4vH2d53SXqtyiz9G1OC+pVSxhExrNYT1+GDgcaaTEsTN5/rVSnHQ==",
   "success": true,
-  "projectFilePath": "E:\\sourcen\\spatial\\spatial.csproj",
+  "projectFilePath": "E:\\blog\\spatial\\spatial.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sascha\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Sascha\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

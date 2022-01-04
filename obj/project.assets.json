@@ -1913,11 +1913,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\sourcen\\spatial\\spatial.csproj",
+      "projectUniqueName": "E:\\blog\\spatial\\spatial.csproj",
       "projectName": "spatial",
-      "projectPath": "E:\\sourcen\\spatial\\spatial.csproj",
+      "projectPath": "E:\\blog\\spatial\\spatial.csproj",
       "packagesPath": "C:\\Users\\Sascha\\.nuget\\packages\\",
-      "outputPath": "E:\\sourcen\\spatial\\obj\\",
+      "outputPath": "E:\\blog\\spatial\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sascha\\AppData\\Roaming\\NuGet\\NuGet.Config",
